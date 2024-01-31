@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">doubletapp_task2</string>
+    <string name="go_to_second_activity">Go to Second Activity</string>
+    <string name="go_to_first_activity">Go to First Activity</string>
+</resources>
